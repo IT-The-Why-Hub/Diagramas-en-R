@@ -17,7 +17,7 @@ Este repositorio contiene ejemplos de análisis y gráficos generados en R para 
 **Descripción**: Análisis de los resultados promedio de aprendizaje a nivel nacional, comparando los resultados de 1985 con los de 2015. Incluye puntajes promedio de pruebas internacionales y regionales de logros estudiantiles para Perú, Chile y Colombia.
 
 **Estructura**:
-- **01_Databases**: La base de datos contiene datos de 1980 - 2015 sobre puntajes en el aprendizaje de diversos países. La base fue obtenida de [Our World in Data] (https://ourworldindata.org/grapher/learning-outcomes-1985-vs-2015?country=PER~COL).
+- **01_Databases**: La base de datos contiene datos de 1980 - 2015 sobre puntajes en el aprendizaje de diversos países. La base fue obtenida de [Our World in Data](https://ourworldindata.org/grapher/learning-outcomes-1985-vs-2015?country=PER~COL).
 - **02_Code**: Código en R para la visualización de la mejora en los puntajes de aprendizaje en los países de Colombia, Chile y Perú
 - **03_Output**: Gráfico de líneas para evidenciar la mejora en los países seleccionado. 
 

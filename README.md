@@ -5,12 +5,12 @@ Este repositorio contiene ejemplos de análisis y gráficos generados en R para 
 
 ### 🔹 01_Aluviales
 
-**Descripción**: Análisis de componentes del Modelo de Integridad desarrollado para una consultoría de la GIZ en coordinación con la Secretaría de Integridad Pública (SIP).
+**Descripción**: Análisis de componentes del Modelo de Integridad Pública desarrollado para una consultoría de la GIZ en coordinación con la Secretaría de Integridad Pública (SIP).
 
 **Estructura**:
-- **01_Databases**: Contiene las bases de datos utilizadas en el análisis.
-- **02_Code**: Código en R para generar gráficos aluviales a partir de los componentes y subcomponentes del Modelo de Integridad Pública.
-- **03_Output**: Gráficos
+- **01_Databases**: Las bases fueron creadas a partir del Modelo de Integridad Pública. Las bases contienen datos de los componentes y subcomponentes del modelo. 
+- **02_Code**: Código en R para generar gráficos aluviales y un gráfico de barras.   
+- **03_Output**: Gráficos por componentes y un gráfico de barras donde se resalta la importancia de los mismos. 
 - 
 ### 🔹 02_Logros Educación
 
@@ -19,7 +19,7 @@ Este repositorio contiene ejemplos de análisis y gráficos generados en R para 
 **Estructura**:
 - **01_Databases**: La base de datos contiene datos de 1980 - 2015 sobre puntajes en el aprendizaje de diversos países. La base fue obtenida de [Our World in Data](https://ourworldindata.org/grapher/learning-outcomes-1985-vs-2015?country=PER~COL).
 - **02_Code**: Código en R para la visualización de la mejora en los puntajes de aprendizaje en los países de Colombia, Chile y Perú
-- **03_Output**: Gráfico de líneas para evidenciar la mejora en los países seleccionado. 
+- **03_Output**: Gráfico de líneas para evidenciar la mejora en los países seleccionados. 
 
 ---
 
@@ -27,7 +27,7 @@ Este repositorio contiene ejemplos de análisis y gráficos generados en R para 
 
 1. **Clona el repositorio**  
    ```bash
-   git clone https://github.com/tu_usuario/Diagrama-en-R.git
+   git clone https://github.com/tu_usuario/Diagramas-en-R.git
    
 2. **Navega a la carpeta del proyecto que quieras explorar**
 3. **Ejecuta el código en R***
